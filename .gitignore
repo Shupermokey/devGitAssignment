@@ -1,0 +1,58 @@
+# OS generated files
+####################
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows
+*.lnk
+
+# Linux
+*~
+.directory
+
+# Temp files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Sensitive data
+################
+# Environment variables
+.env*
+
+# Config files with sensitive data
+config/secrets.yml
+
+# Databases
+*.sqlite3
+
+# Logs
+*.log
+
+# Private keys
+*.pem
+*.key
+*.pgp
+*.gpg
+
+# Other
+secrets/
